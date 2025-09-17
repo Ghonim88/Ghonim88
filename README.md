@@ -109,5 +109,5 @@ I'm always excited to connect with fellow tech enthusiasts, security professiona
 ---
 
 <div align="center">
-  <i>💡 "Security is not a product, but a process" - Bruce Schneier</i>
+  <i>💡 "Security isn't just a career—it's a lifestyle and mindset we carry into everything we build." </i>
 </div>
