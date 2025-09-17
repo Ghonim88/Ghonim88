@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=250&section=header&text=Abdelrahman%20Ghonim&fontSize=50&fontColor=764ba2&animation=fadeIn&fontAlign=50&fontAl
 ignY=40" />
+</div>
 <div align="center" style="margin-top: -50px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&height=60&lines=Cloud+Student;Cyber+Security+Student;DevSecOps+Student" alt="Animated Roles" />
 </div>
-</div>
-
 
 <div align="center">
   
