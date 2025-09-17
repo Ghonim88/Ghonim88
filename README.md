@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1B1B1B,100:764ba2&height=150&section=header&text=Ghonim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:1B1B1B&height=150&section=header&text=Ghonim&fontSize=50&fontColor=FC6E20&animation=fadeIn&fontAlign=50&fontAlignY=60" />
 </div>
 
 <div align="center" style="margin-top: -50px;">
