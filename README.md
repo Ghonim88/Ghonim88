@@ -1,77 +1,123 @@
-<h1 align="center">Hi 👋, I'm AGhonim</h1>
-<h3 align="center">Cloud & Cybersecurity Enthusiast | Full-Stack Explorer | Lifelong Learner</h3>
+# <div align="center">Abdelrahman Ghonim</div>
 
-<p align="center">
-  Passionate about building scalable cloud applications, securing modern infrastructures, and exploring cybersecurity.  
-  Experienced across cloud development, binary exploitation, and full-stack projects, with hands-on practice in Microsoft Azure, AWS, Kubernetes, and penetration testing.  
-  When I’m not coding or researching new technologies, you’ll usually find me training at the gym, running, or having a good coffee conversation ☕.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Student;Cyber+Security+Student;DevSecOps+Student" alt="Typing SVG" />
+</div>
 
----
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ghonim-032100274/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghonim808?s=21)
 
-- 🔭 I’m currently working on **JamTask (SuperApp Project for GenZ Productivity)**  
-- 🌱 I’m currently learning **DevSecOps Fundamentals (Cybr)**  
-- 📜 Certified in **AWS PenTesting (Simply Cyber Academy)**  
-- 📫 How to reach me **a.ghonim046@gmail.com**  
-- ⚡ Fun fact: **always in the gym 💪**  
+</div>
 
 ---
 
-<h3 align="left">💡 Professional Experience & Learning</h3>
+## 👋 About Me
 
-- **Internship (Development):** Applied programming, databases, and UI design in real-world projects.  
-- **Minor – Cloud Computing:** Hands-on with Azure, CI/CD, serverless, Kubernetes, REST API design/testing, and cloud databases.  
-- **Minor – Binary Exploitation & Reversing:** Low-level programming (C, C++, Assembly), Ghidra, GDB, Pwntools, Windows/Linux exploitation.  
-- **Projects:**  
-  - *SuperApp* – Gen Z-focused productivity tool using microservices, AI task agents, and cloud scalability.  
-  - *JamTask* – Full-stack collaboration platform with modern frameworks.  
+Hey there! I'm a passionate student diving deep into the fascinating worlds of **Cloud Computing**, **Cybersecurity**, and **DevSecOps**. I love exploring cutting-edge technologies, hunting for vulnerabilities, and building secure cloud architectures. 
 
----
-
-<h3 align="left">🎓 Certifications</h3>
-
-- **AWS PenTesting – Simply Cyber Academy:** Practical AWS security, IAM misconfigurations, privilege escalation, CLI & PacU usage.  
-- **DevSecOps Fundamentals – Cybr (In Progress):** Secure development lifecycle, automated testing, container security, and deployment best practices.  
+When I'm not busy hacking, exploring software vulnerabilities, or reading about the latest tech trends, you'll probably find me:
+- 💪 Training at the gym or going for a run
+- ☕ Enjoying coffee while socializing and discussing just about anything
+- 🚀 Attending tech meetups to talk about the newest technologies and network with fellow enthusiasts
 
 ---
 
-<h3 align="left">🛠️ Skills Developed</h3>
+## 🚀 Technical Skills
 
-- Programming foundations: Python, Java, C/C++, C#  
-- Web & databases: HTML/CSS/JavaScript, PHP, SQL, NoSQL (MongoDB), UI/UX basics  
-- Cloud & DevOps: Azure, AWS, Kubernetes, Docker, CI/CD pipelines  
-- Security: Binary exploitation, reverse engineering, AWS penetration testing, DevSecOps practices  
-- Tools: Git, Ghidra, GDB, Pwntools, RabbitMQ, Spring, Vue.js, Figma  
-- Soft skills: Collaboration, problem-solving, and client communication  
+### 💻 Programming & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Languages & Frameworks:** Python, Java, C/C++, C#, GO, RESTful API, OpenAPI (Swagger), Spring Boot, Vue.js
+
+### 🌐 Web & Database Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Technologies:** HTML/CSS/JavaScript, PHP, SQL, NoSQL (MongoDB), UI/UX Design, Figma
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Platforms & Tools:** Azure, AWS, Kubernetes, OpenShift, Docker, CI/CD pipelines, Linux
+
+### 🔒 Security & Testing
+![Security](https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-4CAF50?style=for-the-badge&logo=testing-library&logoColor=white)
+
+**Security:** Binary exploitation, Reverse engineering, AWS penetration testing, DevSecOps practices  
+**Testing:** Unit Testing, Cucumber, Ghidra, GDB, Pwntools
+
+### 🛠️ Tools & Methodologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
+
+**Development Tools:** Git, Software Architecture & Design, Functional Modeling  
+**Methodologies:** Team collaboration, Agile methodology (Scrum), Problem-solving, Client communication
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abdelrahman-ghonim-032100274" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+## 🏆 Certifications
 
-<h3 align="left">⚙️ Languages and Tools</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-</p>
+🌐 **CCNA v7: Introduction to Networks**  
+🌐 **CCNA v7: Switching, Routing, and Wireless Essentials**  
+🔒 **AWS Penetration Testing** - Simply Cyber Academy  
+🔒 **AWS Assembly 101** - TCM Security  
+🐍 **Python 201** - TCM Security  
+🐛 **Practical Bug Bounty** - TCM Security  
+
+---
+
+## 🌟 What Drives Me
+
+I'm passionate about exploring the cutting edge of cybersecurity and cloud technologies. There's something incredibly exciting about:
+
+- 🔍 **Learning about the newest vulnerabilities and attack vectors**
+- ☁️ **Understanding cloud security architectures and best practices**  
+- 🛡️ **Building secure, scalable systems using DevSecOps principles**
+- 🌐 **Staying ahead of emerging threats and security trends**
+
+The intersection of development, security, and cloud infrastructure fascinates me, and I'm always eager to dive deeper into how these domains work together to create robust, secure solutions.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to connect with fellow tech enthusiasts, security professionals, and cloud architects. Whether you want to discuss the latest vulnerabilities, share insights about cloud security, or just grab a coffee and chat about technology, feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ghonim-032100274/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me!-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghonim808?s=21)
+
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "Security is not a product, but a process" - Bruce Schneier</i>
+</div>
