@@ -6,17 +6,16 @@
 -->
 
 <!-- Option 2: Cyber Matrix Style -->
- 
+ <!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a1a2e,100:16213e&height=300&section=header&text=Abdelrahman%20Ghonim&fontSize=45&fontColor=00ff41&animation=blinking&fontAlign=50&fontAlignY=40" />
 </div>
-
+-->
 <!-- Option 3: Futuristic Hexagon -->
-<!--
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Abdelrahman%20Ghonim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" />
 </div>
--->
 
 <!-- Option 4: Soft Gradient Rounded -->
 <!--
