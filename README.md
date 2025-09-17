@@ -8,8 +8,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-764ba2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ghonim-032100274/)
-[![Twitter](https://img.shields.io/badge/Twitter-764ba2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghonim808?s=21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ghonim-032100274/)
+[![Twitter](https://img.shields.io/badge/Twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghonim808?s=21)
 
 </div>
 
