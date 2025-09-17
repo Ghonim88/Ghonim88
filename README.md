@@ -1,14 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=200&section=header&text=Abdelrahman%20Ghonim&fontSize=50&fontColor=764ba2&animation=fadeIn&fontAlign=50&fontAlignY=35" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&height=60&lines=Cloud+Student;Cyber+Security+Student;DevSecOps+Student" alt="Animated Roles" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=300&section=header&text=Abdelrahman%20Ghonim&fontSize=50&fontColor=764ba2&animation=fadeIn&fontAlign=50&fontAlignY=25&desc=Cloud%20Student%20|%20Cyber%20Security%20Student%20|%20DevSecOps%20Student&descSize=20&descAlignY=65&descAlign=50" />
 </div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ghonim-032100274/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghonim808?s=21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-764ba2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ghonim-032100274/)
+[![Twitter](https://img.shields.io/badge/Twitter-764ba2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghonim808?s=21)
 
 </div>
 
