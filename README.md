@@ -1,9 +1,13 @@
-<div align="center">
-  <h1 style="color: #764ba2; font-weight: bold; font-size: 3.5em; margin: 20px 0;">Abdelrahman Ghonim</h1>
+<div align="center" style="background-color: #1B1B1B; padding: 40px 20px; border-radius: 15px; margin: 20px 0;">
+  <h1 style="color: #FC6E20; font-weight: bold; font-size: 3.5em; margin: 20px 0;">Abdelrahman Ghonim</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FC6E20&center=true&vCenter=true&width=500&height=60&lines=Cloud+Student;Cyber+Security+Student;DevSecOps+Student" alt="Animated Roles" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&height=60&lines=Cloud+Student;Cyber+Security+Student;DevSecOps+Student" alt="Animated Roles" />
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-764ba2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ghonim-032100274/)
+[![Twitter](https://img.shields.io/badge/Twitter-764ba2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghonim808?s=21)
+
 </div>
 
 <div align="center">
