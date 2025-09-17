@@ -1,14 +1,15 @@
 <!-- Option 1: Gradient Wave Animation -->
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Abdelrahman%20Ghonim&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40" />
 </div>
+-->
 
 <!-- Option 2: Cyber Matrix Style -->
-<!-- 
+ 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a1a2e,100:16213e&height=300&section=header&text=Abdelrahman%20Ghonim&fontSize=45&fontColor=00ff41&animation=blinking&fontAlign=50&fontAlignY=40" />
 </div>
--->
 
 <!-- Option 3: Futuristic Hexagon -->
 <!--
