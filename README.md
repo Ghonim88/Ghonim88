@@ -1,9 +1,8 @@
 <!-- Option 1: Gradient Wave Animation -->
-<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Abdelrahman%20Ghonim&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40" />
 </div>
--->
+
 
 <!-- Option 2: Cyber Matrix Style -->
  <!--
@@ -18,11 +17,11 @@
 </div>
 -->
 <!-- Option 4: Soft Gradient Rounded -->
-
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=300&section=header&text=Abdelrahman%20Ghonim&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40" />
 </div>
-
+-->
 <div align="center" style="margin-top: -50px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=60&lines=Cloud+Student;Cyber+Security+Student;DevSecOps+Student" alt="Animated Roles" />
 </div>
