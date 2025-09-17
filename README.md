@@ -20,7 +20,7 @@
 Hey there! I'm a passionate student diving deep into the fascinating worlds of **Cloud Computing**, **Cybersecurity**, and **DevSecOps**. I love exploring cutting-edge technologies, hunting for vulnerabilities, and building secure cloud architectures. 
 
 When I'm not busy studying binary exploitation and reverse engineering techniques, exploring cloud architectures and security implementations, or learning about DevSecOps automation and secure CI/CD practices, you'll probably find me:
-- 💪 Training at the gym or going for a run
+- ✌🏻 Training at the gym or going for a run
 - ☕ Enjoying coffee while socializing and discussing just about anything
 - 🚀 Attending tech meetups to talk about the newest technologies and network with fellow enthusiasts
 
