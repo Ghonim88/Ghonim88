@@ -93,18 +93,6 @@ The intersection of development, security, and cloud infrastructure fascinates m
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to connect with fellow tech enthusiasts, security professionals, and cloud architects. Whether you want to discuss the latest vulnerabilities, share insights about cloud security, or just grab a coffee and chat about technology, feel free to reach out!
