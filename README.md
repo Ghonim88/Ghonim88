@@ -78,7 +78,7 @@ When I'm not busy studying binary exploitation and reverse engineering technique
 🔒 **AWS Penetration Testing** - Simply Cyber Academy  
 🔒 **AWS Assembly 101** - TCM Security  
 🐍 **Python 201** - TCM Security  
-🐛 **Practical Bug Bounty** - TCM Security
+🐛 **Practical Bug Bounty** - TCM Security  
 🏗️ **𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗼𝗻 𝗔𝗪𝗦** - Cybr
 
 ---
