@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin-top: -50px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FC6E20&center=true&vCenter=true&width=500&height=60&lines=Cloud+Security+Student;Cyber+Security+Student;DevSecOps+Student" alt="Animated Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FC6E20&center=true&vCenter=true&width=500&height=60&lines=Junior+Cloud+Security;Junior+Cyber+Security;DevSecOps+Engineer" alt="Animated Roles" />
 </div>
 
 <div align="center">
