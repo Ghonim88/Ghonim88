@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin-top: -50px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FC6E20&center=true&vCenter=true&width=500&height=60&lines=DevSecOps+Engineer;Cloud+Security+Engineer;Cyber+Security+Professional;Site+Reliability+Engineer" alt="Animated Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FC6E20&center=true&vCenter=true&width=500&height=60&lines=Junior+Engineer;DevOps+SRE;Cloud+&+AI Enthusiast" alt="Animated Roles" />
 </div>
 
 <div align="center">
@@ -17,9 +17,9 @@
 
 ## 👋 About Me
 
-Hey there! I'm a passionate student diving deep into the fascinating worlds of **Cloud Computing**, **Cybersecurity**, and **DevSecOps**. I love exploring cutting-edge technologies, hunting for vulnerabilities, and building secure cloud architectures. 
+Hey there! I'm a **Junior Engineer** about **Cloud Computing**, **DevOps**, **SRE**, and **AI-driven systems**. I love building scalable, reliable platforms, automating workflows, and designing secure, intelligent software architectures.
 
-When I'm not busy studying binary exploitation and reverse engineering techniques, exploring cloud architectures and security implementations, or learning about DevSecOps automation and secure CI/CD practices, you'll probably find me:
+When I'm not busy building automated platforms, exploring cloud infrastructure,learning about DevSecOps automation and secure CI/CD practices or integrating AI-driven solutions into software workflows, you’ll probably find me:
 - ✌🏻 Training at the gym or going for a run
 - ☕ Enjoying coffee while socializing and discussing just about anything
 - 🚀 Attending tech meetups to talk about the newest technologies and network with fellow enthusiasts
