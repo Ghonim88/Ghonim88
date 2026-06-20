@@ -76,7 +76,7 @@ When I'm not busy building automated platforms, exploring cloud infrastructure,l
 🌐 **CCNA v7: Introduction to Networks**  
 🌐 **CCNA v7: Switching, Routing, and Wireless Essentials**  
 🔒 **AWS Penetration Testing** - Simply Cyber Academy  
-🔒 **AWS Assembly 101** - TCM Security  
+🔒 **Assembly 101** - TCM Security  
 🐍 **Python 201** - TCM Security  
 🐛 **Practical Bug Bounty** - TCM Security  
 🏗️ **Terraform on AWS** - Cybr
